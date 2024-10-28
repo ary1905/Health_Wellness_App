@@ -1,6 +1,6 @@
 # HealthMate - Health & Wellness Android App
 
-[![Platform](https://img.shields.io/badge/Platform-Android-blue?style=flat-square&logo=android)](https://developer.android.com/) 
+[![Platform](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/) 
 [![Java](https://img.shields.io/badge/Language-Java-orange?style=flat-square&logo=java)](https://www.oracle.com/java/) 
 [![License](https://img.shields.io/github/license/ary1905/Health_Wellness_App?style=flat-square)](LICENSE)  
 ![GitHub repo size](https://img.shields.io/github/repo-size/ary1905/Health_Wellness_App?style=flat-square)  
@@ -86,4 +86,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 **Ary1905**  
 [GitHub](https://github.com/ary1905)  
-[Email](mailto:your-email@example.com)
+[Email](aryansingh0519@gmail.com)
