@@ -23,7 +23,7 @@ HealthMate is a Health and Wellness Android application developed to track, moni
 
 | Dashboard                          | Assessment                         | Profile                          |
 |------------------------------------|------------------------------------|----------------------------------|
-| [![Whats-App-Image-2024-10-28-at-14-19-13-5e175cbb.jpg](https://i.postimg.cc/HnsmpL3Y/Whats-App-Image-2024-10-28-at-14-19-13-5e175cbb.jpg)](https://postimg.cc/mzqJjB0J) | [![Whats-App-Image-2024-10-28-at-14-19-13-bb7e4ceb.jpg](https://i.postimg.cc/wx0HwhT7/Whats-App-Image-2024-10-28-at-14-19-13-bb7e4ceb.jpg)](https://postimg.cc/V5r360t8) | [![Whats-App-Image-2024-10-28-at-14-19-12-b1d88c0a.jpg](https://i.postimg.cc/YCF5BgkN/Whats-App-Image-2024-10-28-at-14-19-12-b1d88c0a.jpg)](https://postimg.cc/MnWPynnX) |
+| [![Whats-App-Image-2024-10-28-at-14-19-13-5e175cbb.jpg](https://i.postimg.cc/HnsmpL3Y/Whats-App-Image-2024-10-28-at-14-19-13-5e175cbb.jpg)](https://postimg.cc/mzqJjB0J) | [![Whats-App-Image-2024-10-28-at-14-19-13-bb7e4ceb.jpg](https://i.postimg.cc/wx0HwhT7/Whats-App-Image-2024-10-28-at-14-19-13-bb7e4ceb.jpg)](https://postimg.cc/V5r360t8) | [![Whats-App-Image-2024-10-28-at-14-19-12-b1d88c0a.jpg](https://i.postimg.cc/y8Cf9G49/Whats-App-Image-2024-10-28-at-14-19-12-b1d88c0a.jpg)](https://postimg.cc/PPKzn2qr) |
 
 ## Getting Started
 
