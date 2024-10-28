@@ -23,9 +23,7 @@ HealthMate is a Health and Wellness Android application developed to track, moni
 
 | Dashboard                          | Assessment                         | Profile                          |
 |------------------------------------|------------------------------------|----------------------------------|
-| ![Dashboard](images/dashboard.png) | ![Assessment](images/assessment.png) | ![Profile](images/profile.png) |
-
-> _Ensure the images (`dashboard.png`, `assessment.png`, `profile.png`) are in the `images` folder in your repository._
+| [![Whats-App-Image-2024-10-28-at-14-19-13-5e175cbb.jpg](https://i.postimg.cc/HnsmpL3Y/Whats-App-Image-2024-10-28-at-14-19-13-5e175cbb.jpg)](https://postimg.cc/mzqJjB0J) | [![Whats-App-Image-2024-10-28-at-14-19-13-bb7e4ceb.jpg](https://i.postimg.cc/wx0HwhT7/Whats-App-Image-2024-10-28-at-14-19-13-bb7e4ceb.jpg)](https://postimg.cc/V5r360t8) | [![Whats-App-Image-2024-10-28-at-14-19-12-b1d88c0a.jpg](https://i.postimg.cc/YCF5BgkN/Whats-App-Image-2024-10-28-at-14-19-12-b1d88c0a.jpg)](https://postimg.cc/MnWPynnX) |
 
 ## Getting Started
 
