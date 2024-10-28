@@ -2,7 +2,6 @@
 
 [![Platform](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/) 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/) 
-[![License](https://img.shields.io/github/license/ary1905/Health_Wellness_App?style=flat-square)](LICENSE)  
 ![GitHub repo size](https://img.shields.io/github/repo-size/ary1905/Health_Wellness_App?style=flat-square)  
 [![Last Commit](https://img.shields.io/github/last-commit/ary1905/Health_Wellness_App?style=flat-square)](https://github.com/ary1905/Health_Wellness_App/commits/main)  
 
